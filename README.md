@@ -28,14 +28,6 @@ It works well with both IOS and Android.
 
 ## Installation
 
-> Follow these steps to install and test the app:
-
-```
-git clone git@github.com:ATF19/react-native-shop-ui.git
-cd react-native-shop-ui
-npm install
-```
-
 > For iOS users:
 
 ```
@@ -60,8 +52,8 @@ Click [here](screenshots/README.md)
 
 Updating the codebase will require changes to the `.js` files in the [src/](./src/) folder. Individual pages can be edited by editing the `.js` files in [src/page/](./src/page/). Re-usable components can be edited by editing the `.js` files in [src/component/](./src/component/).
 
-To contribute your changes to the main repository, create a pull request from your fork [here](https://github.com/ATF19/react-native-shop-ui/compare?expand=1) (click the `compare across forks` link make your repository the source repository)
+To contribute your changes to the main repository, create a pull request from your fork [here](https://github.com/technojunkie0103/react-native-shop-ui/compare?expand=1) (click the `compare across forks` link make your repository the source repository)
 
 ## Contact
 
-> If you have any problem you can contact me at: **atef.najar@icloud.com**
+> If you have any problem you can contact me at: **technojunkie0103@gmail.com**
